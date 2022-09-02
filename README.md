@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My name is Alexey.
+I'm actively looking for a job as Junior Ruby Developer.
+
+- 🌱 I’m currently learning Ruby.
+- 🔭 Looking for a job remotely. 
+- Stack : Ruby / Ruby on Rails / PostgreSQL / JavaSCript 
+- CV : [Hexlet](https://cv.hexlet.io/resumes/1312)
+- 📫 alexey-melekhov1989@yandex.ru
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leshasmp&layout=compact&hide=css,html)
 
 ![leshasmp's github stats](https://github-readme-stats.vercel.app/api?username=leshasmp&count_private=true&show_icons=true&theme=onedark)
