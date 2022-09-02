@@ -6,7 +6,8 @@ I'm actively looking for a job as Junior Ruby Developer.
 - 🌱 I’m currently learning Ruby.
 - 🔭 Looking for a job remotely. 
 - Stack : Ruby / Ruby on Rails / PostgreSQL / JavaSCript 
-- CV : [Hexlet](https://cv.hexlet.io/resumes/1312)
+- CV : [https://cv.hexlet.io/resumes/1312](https://cv.hexlet.io/resumes/1312)
+- [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/alexeymelekhov)
 - 📫 alexey-melekhov1989@yandex.ru
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leshasmp&layout=compact&hide=css,html)
