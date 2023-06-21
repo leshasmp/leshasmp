@@ -1,10 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 My name is Alexey.
-I'm actively looking for a job as Junior Ruby Developer.
 
 - 🌱 I’m currently learning Ruby.
-- 🔭 Looking for a job remotely. 
 - Stack : Ruby / Ruby on Rails / PostgreSQL / JavaSCript 
 - CV : [https://cv.hexlet.io/resumes/1312](https://cv.hexlet.io/resumes/1312)
 - 📫 alexey-melekhov1989@yandex.ru
