@@ -4,7 +4,6 @@ My name is Alexey.
 
 - 🌱 I’m currently learning Ruby.
 - Stack : Ruby / Ruby on Rails / PostgreSQL / JavaSCript 
-- CV : [https://cv.hexlet.io/resumes/1312](https://cv.hexlet.io/resumes/1312)
 - 📫 alexey-melekhov1989@yandex.ru
 - [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/alexeymelekhov)
 
